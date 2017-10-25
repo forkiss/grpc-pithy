@@ -5,7 +5,7 @@
   "version": "1.4.1",
   "require": {
     "php": ">=5.5.0",
-    "forkiss/protobuf-pithy": "~3.3"
+    "forkiss/protobuf-pithy": "dev-master"
   },
   "autoload": {
     "psr-4": {
